@@ -13,7 +13,6 @@ GitHub-i sisse ehitatud veebilehe majutusteenus lihtsamatele veebisaitidele
 
 ##### Miinused
 - Skriptid on keelatud
-- 
 
 
 
