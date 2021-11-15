@@ -9,7 +9,6 @@ GitHub-i sisse ehitatud veebilehe majutusteenus lihtsamatele veebisaitidele
 - 100% tasuta
 - Lihtne kasutada
 - Automatic Deployment sisse lülitatud out of the box. (Eeldab Pages teenuse sisse lülitamist)
-- Jekyll-i support
 
 ##### Miinused
 - Skriptid on keelatud
